@@ -430,10 +430,8 @@ with tab_overview:
         st.markdown("**Module Status Roadmap:**")
         st.markdown(
             "- ✅ **Stage 1 (Active):** Inputs & Funding, PSY-3 Deterministic Engine, Dated Ledger, "
-            "AP Calculus Panel (Foundation/Applied/Advanced), JSON Save/Restore, Acceptance Tests.
-"
-            "- ⏳ **Stage 2 (Planned):** Full Report Center (PDF/CSV), Costed Marketing Studio, 3 Decision Rounds.
-"
+            "AP Calculus Panel (Foundation/Applied/Advanced), JSON Save/Restore, Acceptance Tests.\n"
+            "- ⏳ **Stage 2 (Planned):** Full Report Center (PDF/CSV), Costed Marketing Studio, 3 Decision Rounds.\n"
             "- ⏳ **Stage 3 (Planned):** Cross-Course Connections Panel & Frozen Snapshot Practice Assessments."
         )
 
